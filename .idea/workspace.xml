@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3694b06-d8c9-4c58-84ad-d7afa3b7070f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/Person.java" afterDir="false" />
-    </list>
+    <list default="true" id="d3694b06-d8c9-4c58-84ad-d7afa3b7070f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607937089486</updated>
-      <workItem from="1607937097524" duration="3528000" />
+      <workItem from="1607937097524" duration="3713000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交到本地库">
       <created>1607937836570</created>
@@ -108,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607939779223</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="新增的beanPerson">
+      <created>1607940856550</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607940856550</updated>
+    </task>
+    <task id="LOCAL-00005" summary="新的提交">
+      <created>1607941010150</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607941010150</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +142,9 @@
     <MESSAGE value="第一次提交到本地库" />
     <MESSAGE value="提交User的更新" />
     <MESSAGE value="提交User的更新2" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交User的更新2" />
+    <MESSAGE value="新增的beanPerson" />
+    <MESSAGE value="新的提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="新的提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="685" y="106" key="#Project_Structure" timestamp="1607937743725">
@@ -141,10 +155,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="911" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1607940813728" />
-    <state x="125" y="20" key="CommitChangelistDialog2" timestamp="1607940853575">
+    <state x="125" y="20" key="CommitChangelistDialog2" timestamp="1607941001875">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="125" y="20" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1607940853575" />
+    <state x="125" y="20" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1607941001875" />
     <state x="327" y="185" key="FileChooserDialogImpl" timestamp="1607939219318">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
