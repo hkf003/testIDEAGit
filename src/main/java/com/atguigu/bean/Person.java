@@ -19,4 +19,12 @@ public class Person {
     public void setpPhone(String pPhone) {
         this.pPhone = pPhone;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "pName='" + pName + '\'' +
+                ", pPhone='" + pPhone + '\'' +
+                '}';
+    }
 }
