@@ -4,7 +4,10 @@ public class Person {
     private String pName;
     private String pPhone;
     private String gogo;
+
     private Integer agedfdf;
+
+    private String heiheihei;
 
     public String getpName() {
         return pName;
