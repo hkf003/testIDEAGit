@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3694b06-d8c9-4c58-84ad-d7afa3b7070f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/bean/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\astudy_pro2\java_atguigu_Git\git01\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\astudy_pro\maven_factory" />
+        <option name="mavenHome" value="F:/Program Files/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="F:\Program Files\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ldpzxq8a8XniupZ0s1hZHkS06R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3694b06-d8c9-4c58-84ad-d7afa3b7070f" name="Default Changelist" comment="" />
+      <created>1607937089486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607937089486</updated>
+      <workItem from="1607937097524" duration="3528000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交到本地库">
+      <created>1607937836570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607937836570</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交User的更新">
+      <created>1607938001320</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607938001320</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交User的更新2">
+      <created>1607939779223</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607939779223</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="第一次提交到本地库" />
+    <MESSAGE value="提交User的更新" />
+    <MESSAGE value="提交User的更新2" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交User的更新2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="685" y="106" key="#Project_Structure" timestamp="1607937743725">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="685" y="106" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1607937743725" />
+    <state x="911" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1607940813728">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="911" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1607940813728" />
+    <state x="125" y="20" key="CommitChangelistDialog2" timestamp="1607940853575">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="125" y="20" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1607940853575" />
+    <state x="327" y="185" key="FileChooserDialogImpl" timestamp="1607939219318">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="327" y="185" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1607939219318" />
+    <state x="78" y="46" key="SettingsEditor" timestamp="1607938892024">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="78" y="46" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1607938892024" />
+    <state x="356" y="142" key="new project wizard" timestamp="1607937710189">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="356" y="142" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1607937710189" />
+  </component>
+</project>
