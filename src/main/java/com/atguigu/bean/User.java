@@ -7,6 +7,8 @@ public class User {
     private String computer;
     private String phone;
     private Integer age;
+    private Double salary;
+    private Double salary1;
 
     public Integer getAge() {
         return age;
